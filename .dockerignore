@@ -1,0 +1,8 @@
+**/*/bin/*
+**/*/obj/*
+.*
+*.md
+build
+GitVersion.yml
+Jenkinsfile
+node_modules
